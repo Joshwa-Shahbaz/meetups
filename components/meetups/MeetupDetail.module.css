@@ -1,0 +1,16 @@
+.detail img {
+  width: 100%;
+}
+.detail {
+  text-align: center;
+}
+.detail h1 {
+  font-size: 25px;
+  font-weight: bold;
+}
+.detail address {
+  font-size: 23px;
+}
+.detail p {
+  font-size: 23px;
+}
